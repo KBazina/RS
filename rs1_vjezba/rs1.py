@@ -1,3 +1,4 @@
+import random
 # print("unesi prvi broj: ")
 # a = int(input())
 # print("unesi drugi broj: ")
@@ -26,3 +27,19 @@
 #     print("godina " , a, " je prijestupna")
 # else:
 #     print("godina " , a, " nije prijestupna")
+
+
+
+# broj = random.randint(1, 100)
+# print("unesi broj: ")
+# a=int(input())
+
+# while a != broj:
+#     if a < broj:
+#         print("tvoj broj je manji")
+#     else :
+#         print("tvoj broj je veci")
+#         print("unesi broj novi: ")
+#     a=int(input())
+# print("pogodio si")
+
